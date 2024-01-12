@@ -1,0 +1,2 @@
+C:\Users\Daniil\source\repos\C++attestazia\Zadanie\x64\Debug\tasks.exe
+C:\Users\Daniil\source\repos\C++attestazia\Attestatia\x64\Debug\tasks.exe
