@@ -1,0 +1,3 @@
+﻿  FinalProject.cpp
+C:\Users\aitov\source\repos\FinalProject\FinalProject.cpp(119,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  FinalProject.vcxproj -> C:\Users\aitov\source\repos\FinalProject\x64\Debug\FinalProject.exe
